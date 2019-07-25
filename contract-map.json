@@ -1,4 +1,11 @@
 {
+  "0x15DfC197E7ac7D81a07250B5bdebAa96Fc1C5dfA": {
+    "name": "Asure",
+    "logo": "ASR.png",
+    "erc20": true,
+    "symbol": "ASR",
+    "decimals": 18
+  },
   "0x5D858bcd53E085920620549214a8b27CE2f04670": {
     "name": "POP Network Token",
     "logo": "POP.svg",
